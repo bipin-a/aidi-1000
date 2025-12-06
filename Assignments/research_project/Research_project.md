@@ -1,3 +1,7 @@
+Deliverables:
+- PDF of report
+- 5 minute or less video walking through your rationale.
+
 Create a plan for how to obtain your ideal career.
 
 
@@ -160,4 +164,6 @@ Here's the full matrix with complete sentence descriptions as columns:
 
 
 Calculate the total time it'll take to go from current to your target.
+
+
 
