@@ -21,7 +21,14 @@ You are expected to use `uv` as your virtual environemnt manager and python pack
 ## Part 1: Model Training
 
 ### 1.1 Data Preparation
-- Load your dataset
+- Load your dataset. It is the penguins dataset 
+
+```python
+import seaborn as sns
+penguins = sns.load_dataset("penguins")
+```
+
+
 - Split data into features (X) and target (y)
 - Create train/test split using **stratified sampling** (use `stratify` parameter)
 
